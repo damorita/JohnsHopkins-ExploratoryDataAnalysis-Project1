@@ -5,6 +5,7 @@ There are a totla of 8 files. R Scripts plot1.R, plot2.R, plot3.R, plot4.R which
 
 ###Instructions:
 1) Download the Data set from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip to home directory
+
 2) Run Each of 4 R scripts to create the png files for respective plots.
 
 
